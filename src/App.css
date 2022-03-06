@@ -1,0 +1,30 @@
+.App{
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+}
+/* .paginationBttns{
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 12px;
+  margin: 10px;
+  border-radius: 6px;
+  border: 1.5em solid yellowgreen;
+  color: yellowgreen;
+  cursor: pointer;
+}
+.paginationBttns a:hover{
+  color: aquamarine;
+  background-color: yellowgreen;
+}
+
+.paginationActive{
+color: aquamarine;
+background-color: yellowgreen;
+} */
